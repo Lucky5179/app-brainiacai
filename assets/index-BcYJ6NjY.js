@@ -117300,7 +117300,7 @@ const dat = (t) => {
       className: "flex items-center px-6 py-4",
       children: [
         Z.jsx("a", {
-          href: "https://agix-beta.vercel.app/",
+          href: "https://defi-agix.vercel.app/",
           target: "_blank",
           children: Z.jsx(Aat, {}),
         }),
