@@ -7,7 +7,7 @@ export const Header = () => {
   return (
     <div className="flex items-center px-6 py-4">
       <a href="https://defi-agix.vercel.app/" target="_blank"><IconLogo /></a>
-      <h1 className="text-xl xl:text-2xl ml-8">Artificial General Intelligence</h1>
+      <h1 className="text-xl xl:text-2xl ml-8">Brainiac AI</h1>
       <div className="flex items-center space-x-6 ml-auto">
         <TransactionStatus />
         <ConnectTwitter />
